@@ -1,4 +1,4 @@
-rapidxml
+RapidXml
 =========
 
 About
